@@ -1,0 +1,4 @@
+main: dev.azarattum.spigot.shulkerrespawnplugin.Plugin
+name: ShulkerRespawn
+version: 1.0
+api-version: 1.14
